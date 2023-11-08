@@ -1,0 +1,153 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  width: 70%;
+  background-size: cover;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.app-logo {
+  width: 20%;
+}
+.add-password-container {
+  border-radius: 10px;
+  background-color: #5763a5;
+  min-width: 10px;
+  min-height: 10px;
+  display: flex;
+  align-items: center;
+  padding: 35px;
+  margin-top: 25px;
+}
+.add-password {
+  border-radius: 10px;
+  background-color: #454f84;
+  min-width: 10px;
+  min-height: 10px;
+  padding: 25px;
+}
+.add-new-manager-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+}
+.add-password-image {
+  width: 35%;
+
+  margin-left: 40px;
+}
+.input-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 30vw;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  margin-bottom: 30px;
+}
+.input-image {
+  width: 8%;
+  margin-right: 10px;
+}
+.input {
+  min-height: 30px;
+  min-width: 25vw;
+  padding-left: 15px;
+  border-width: 0px;
+  outline: none;
+}
+.button-container {
+  text-align: right;
+}
+.add-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.your-password-container {
+  display: flex;
+  align-items: center;
+}
+.password-list-counting {
+  background-color: transparent;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 13px;
+  padding: 1px;
+  color: #ffffff;
+  border-color: #ffffff;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.bottom-container {
+  border-radius: 10px;
+  background-color: #5763a5;
+  min-width: 10px;
+  height: 85vh;
+  padding: 35px;
+  margin-top: 25px;
+}
+.output-password-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.output-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 15vw;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  margin-bottom: 30px;
+}
+.output {
+  height: 30px;
+  width: 12vw;
+  padding-left: 15px;
+  border-width: 0px;
+  outline: none;
+}
+.horizontial-line {
+  background-color: #7683cb;
+  height: 3px;
+  border-width: 0px;
+  margin-top: 0px;
+}
+.output-middle-container {
+  text-align: right;
+}
+.checkbox-box {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.unorder-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+.empty-container {
+  text-align: center;
+}
+
+.empty-image {
+  width: 40%;
+}
+.empty-paragraph {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}

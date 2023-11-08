@@ -1,0 +1,36 @@
+.list-items {
+  border-radius: 5px;
+  border-color: #454f84;
+  border-style: solid;
+  border-width: 2px;
+  height: 16vh;
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.web-paragraph {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 7px;
+}
+.delete-button {
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 0px;
+}
+.delete-logo {
+  width: 88%;
+  margin-left: 20px;
+}
+.star-image {
+  width: 10vw;
+}
+.paragraph-container {
+  margin-right: 0px;
+}
